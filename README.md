@@ -17,6 +17,12 @@ Here are some ideas to get you started:
 
 ## Projects
 
+### [PropertyPulse](https://github.com/ArnavGupta22/PropertyPulse)
+An advanced real estate analytics platform leveraging AI to provide real-time housing market insights by analyzing U-Haul rental patterns and economic indicators. Property Pulse regularly updates a precise projection of the average real estate value in United States cities by implementing a neural network trained on web scraped U-Haul rental prices and other frequently used predictors.
+
+### [Atlanta Food Finder](https://github.com/anyeelii/Atlanta_Food_Finder.git)
+Atlanta Food Finder is a web application that allows users to search for and discover restaurants in Atlanta. Users can view restaurants locations on a map, read reviews, and get directions. The application features a user-friendly interface and provides useful information about each restaurant such as cuisine type, address, ratings, and timings.
+
 ### [Smart Novel Automated Pillbox (SNAP)]
 Assembled a medication pillbox that alerts users and user care giver on which medication to take and when via text message. The pillbox is 
 connected to a mobile application through a WiFi-module where medications can be scheduled and placed in respective pillbox compartment. Mobile application developed
@@ -27,5 +33,4 @@ Built a solution to better disperse medical resources for 148k malnourished hous
 to help predict the Composite Index of Anthropometric Failure (CIAF). Used R libraries such as Mice (Multivariate Imputation by Chained Equations) and Random Forest
 to manage missing data points in large dataset and perform machine learning techniques. Used python and neural netoworks to build final model. 
 
-### [Atlanta Food Finder](https://github.com/anyeelii/Atlanta_Food_Finder.git)
-Atlanta Food Finder is a web application that allows users to search for and discover restaurants in Atlanta. Users can view restaurants locations on a map, read reviews, and get directions. The application features a user-friendly interface and provides useful information about each restaurant such as cuisine type, address, ratings, and timings.
+
