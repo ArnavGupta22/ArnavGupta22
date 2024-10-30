@@ -17,6 +17,9 @@ Here are some ideas to get you started:
 
 ## Projects
 
+### [Coastlens](https://github.com/kevskillz/aiatl)
+Developed CoastLens, a multimodal AI application for assessing coastal property risk using data from Google Earth Satellite Telemetry, NOAA hurricane data, ArcGIS, and 2,000+ webscraped news articles using Firecrawl API. Built with Flask, React, and Google Maps on the front end, CoastLens leverages Gemini LLM, Pinecone, and Hugging Face for backend processing and real-time recommendations. This application provides predictive insights on sea-level rise and property risk, enabling data-driven investment decisions.
+
 ### [PropertyPulse](https://github.com/ArnavGupta22/PropertyPulse)
 An advanced real estate analytics platform leveraging AI to provide real-time housing market insights by analyzing U-Haul rental patterns and economic indicators. Property Pulse regularly updates a precise projection of the average real estate value in United States cities by implementing a neural network trained on web scraped U-Haul rental prices and other frequently used predictors.
 
