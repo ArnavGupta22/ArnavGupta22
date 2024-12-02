@@ -17,6 +17,9 @@ Here are some ideas to get you started:
 
 ## Projects
 
+### [Spotify Wrapped](https://spotify-wrapped-one.vercel.app/)
+Discover your personalized Spotify insights with this dynamic web app! Leveraging Spotify's Web API, the app creates a visually engaging and interactive experience, highlighting your most-played tracks, favorite artists, and listening habits over time. Built using React, Django, Spotify Web API, Gemini LLM, and deployed on Vercel.
+
 ### [Coastlens](https://github.com/kevskillz/aiatl)
 Developed CoastLens, a multimodal AI application for assessing coastal property risk using data from Google Earth Satellite Telemetry, NOAA hurricane data, ArcGIS, and 2,000+ webscraped news articles using Firecrawl API. Built with Flask, React, and Google Maps on the front end, CoastLens leverages Gemini LLM, Pinecone, and Hugging Face for backend processing and real-time recommendations. This application provides predictive insights on sea-level rise and property risk, enabling data-driven investment decisions.
 
